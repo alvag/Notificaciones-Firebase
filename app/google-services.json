@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "422461315670",
+    "firebase_url": "https://curso-notificaciones.firebaseio.com",
+    "project_id": "curso-notificaciones",
+    "storage_bucket": "curso-notificaciones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422461315670:android:03708ea65d5cbc05",
+        "android_client_info": {
+          "package_name": "com.maxalva.notificacionesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422461315670-q7ijufv17suofm5b2tbcafarvq1ntrmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maxalva.notificacionesfirebase",
+            "certificate_hash": "19ef36924b8aaa309a927aeef2591cc84339c50b"
+          }
+        },
+        {
+          "client_id": "422461315670-52g75fo47e91atc7lq4mtq2n46hsp7hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT0BhB-uKw9cJqsCFIfcZYiNZ9rvYhSjA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422461315670-52g75fo47e91atc7lq4mtq2n46hsp7hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

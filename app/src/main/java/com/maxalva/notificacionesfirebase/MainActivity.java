@@ -28,5 +28,12 @@ public class MainActivity extends AppCompatActivity {
                 System.out.println("tokenFirebase ==> " + tokenFirebase);
             }
         });
+
+        if (getIntent().getExtras() != null){
+            System.out.println("Datos recibidos (Intent)");
+            String user = getIntent().getExtras().getString("user");
+            System.out.println("Usuario: " + user);
+            textViewToken.setText(user);
+        }
     }
 }
